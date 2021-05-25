@@ -1,0 +1,14 @@
+.posts:hover{
+    box-shadow: 3px 4px 3px rgb(238, 238, 238);    
+    transform: scale(1.001);
+
+}
+
+.content {
+    display:flex;
+    align-items:center;
+  }
+
+.button {
+    width: 20%;
+}
